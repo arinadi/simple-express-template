@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/dnoegel/php-xdg-base-dir" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/doctrine/inflector" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/doctrine/lexer" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/egulias/email-validator" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/erusev/parsedown" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/fideloper/proxy" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/jakub-onderka/php-console-color" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/jakub-onderka/php-console-highlighter" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/laravel/framework" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/laravel/laravel" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/laravel/tinker" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/league/flysystem" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/monolog/monolog" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/mtdowling/cron-expression" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/nesbot/carbon" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/nikic/php-parser" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/paragonie/random_compat" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/psr/container" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/psr/simple-cache" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/psy/psysh" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/ramsey/uuid" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/swiftmailer/swiftmailer" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/console" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/css-selector" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/debug" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/event-dispatcher" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/finder" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/http-foundation" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/http-kernel" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/polyfill-php70" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/process" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/routing" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/translation" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/var-dumper" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/tijsverkoyen/css-to-inline-styles" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/vlucas/phpdotenv" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/dnoegel/php-xdg-base-dir" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/doctrine/inflector" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/doctrine/lexer" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/egulias/email-validator" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/erusev/parsedown" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/fideloper/proxy" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/jakub-onderka/php-console-color" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/jakub-onderka/php-console-highlighter" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/laravel/framework" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/laravel/laravel" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/laravel/tinker" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/league/flysystem" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/monolog/monolog" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/mtdowling/cron-expression" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/nesbot/carbon" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/nikic/php-parser" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/paragonie/random_compat" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/psr/container" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/psr/simple-cache" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/psy/psysh" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/ramsey/uuid" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/swiftmailer/swiftmailer" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/console" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/css-selector" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/debug" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/event-dispatcher" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/finder" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/http-foundation" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/http-kernel" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/polyfill-php70" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/process" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/routing" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/translation" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/symfony/var-dumper" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/tijsverkoyen/css-to-inline-styles" />
+          <root url="file://$MODULE_DIR$/../../kilatcomposer/vendor/vlucas/phpdotenv" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
